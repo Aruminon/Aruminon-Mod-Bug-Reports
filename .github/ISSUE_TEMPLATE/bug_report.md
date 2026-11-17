@@ -20,6 +20,11 @@ Please enter the name of the affected mod.
 分からない場合は「不明」と記入してください。
 If you are unsure, write "Unknown".
 
+## Mod構成　/ Mod List
+
+バグが発生したModの構成を教えてください。
+Please provide the mod list that was active when the bug occurred.
+
 ## 問題の内容 / Describe the bug
 
 何が起きたか、詳しく説明してください。
